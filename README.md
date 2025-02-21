@@ -1,0 +1,1 @@
+não estive presente na aula de 4º dado que fui convocado para um congresso na minha escola antiga, compreendo se a nota for ligeiramente prejudicada dado que segui os powerpoints da aula por minha conta e pode conter alguns erros no código, mas contém os 7 exercícios
