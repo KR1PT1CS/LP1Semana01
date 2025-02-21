@@ -15,7 +15,14 @@ namespace AskForInput
             input = Console.ReadLine();
             float number2 = 0f;
             number2 = float.Parse(input);
+
+            input = Console.ReadLine();
+            float number2 = 0f;
+            number2 = float.Parse(input);
+
+            Console.WriteLine($"{number} plus {number2} is equal to {number+number2}.");
         }
     }
 }
             
+                
